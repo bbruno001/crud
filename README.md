@@ -1,2 +1,2 @@
 # crud
-Crup-app make to study Python and Django
+Crud-app make to study Python and Django
